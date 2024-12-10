@@ -12,3 +12,21 @@ I have been playing the saxophone since the 4th grade and have done multiple ens
 
 Note: Sources below are subject to change and will not be finalized until the project is completed.
 
+Spleeter - Audio Source Separation: GitHub: https://github.com/deezer/spleeter Documentation: https://github.com/deezer/spleeter/wiki
+
+
+Pydub - Audio Manipulation: Official Site: https://pydub.com/ GitHub: https://github.com/jiaaro/pydub
+
+
+Frequency-to-Note Conversion: https://librosa.org/doc/latest/generated/librosa.hz_to_note.html
+
+
+NumPy - Numerical Computing Official Site: https://numpy.org/ GitHub: https://github.com/numpy/numpy
+
+
+MIDIUtil - MIDI File Generation: Docs: https://midiutil.readthedocs.io/ GitHub: https://github.com/MarkCWirt/MIDIUtil
+
+
+Music21 - Sheet Music Tools: Official Site: https://web.mit.edu/music21/
+
+
