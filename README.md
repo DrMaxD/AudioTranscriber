@@ -21,7 +21,7 @@ Pydub - Audio Manipulation: Official Site: https://pydub.com/ GitHub: https://gi
 Frequency-to-Note Conversion: https://librosa.org/doc/latest/generated/librosa.hz_to_note.html
 
 
-NumPy - Numerical Computing Official Site: https://numpy.org/ GitHub: https://github.com/numpy/numpy
+NumPy - Numerical Computing: Official Site: https://numpy.org/ GitHub: https://github.com/numpy/numpy
 
 
 MIDIUtil - MIDI File Generation: Docs: https://midiutil.readthedocs.io/ GitHub: https://github.com/MarkCWirt/MIDIUtil
